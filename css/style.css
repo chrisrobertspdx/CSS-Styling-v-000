@@ -46,7 +46,7 @@ figcaption {
 }
 
 /* pseudo selector */
-#details a:link, #details a:linked{
+#details a:link, #details a:link{
   color: black;
   text-decoration: none
 }
