@@ -48,15 +48,15 @@ figcaption {
 /* pseudo selector */
 #details a:link, #details a:link{
   color: black;
-  text-decoration: none
+  text-decoration: none;
 }
 
 #details a:link {
   color: black;
-  text-decoration: underline
+  text-decoration: underline;
 }
 
 #details a:active {
   color: red;
-  text-decoration: underline
+  text-decoration: underline;
 }
