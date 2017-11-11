@@ -46,12 +46,12 @@ figcaption {
 }
 
 /* pseudo selector */
-#details a:link, #details a:link{
+#details a:link, #details a:visited{
   color: black;
   text-decoration: none;
 }
 
-#details a:link {
+#details a:hover {
   color: black;
   text-decoration: underline;
 }
